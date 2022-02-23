@@ -189,3 +189,4 @@ while run:
         tela.blit(combo_enemy, [500, 100])
 
     pygame.display.update()
+    #linha editada no github
