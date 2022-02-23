@@ -6,7 +6,7 @@ largura = 880
 altura = 500
 
 tela = pygame.display.set_mode((largura, altura))
-pygame.display.set_caption('Pong')
+pygame.display.set_caption('Pong tipo o classico')
 # player
 posicao_player = 200
 movimento = 0
